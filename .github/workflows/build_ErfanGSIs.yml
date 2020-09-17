@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/20.1.2/miui_MIPLAY_20.1.2_11d38ecb83_8.1.zip
+  ROM_URL: https://120-240-80-1.ksyungslb.com/bigota.d.miui.com/20.1.2/miui_MIPLAY_20.1.2_11d38ecb83_8.1.zip?ksy_gslb_referer=https%3A%2F%2Fmiuiver.com%2Flotus_developer_recovery%2F
   ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
